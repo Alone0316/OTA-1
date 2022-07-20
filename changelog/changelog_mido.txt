@@ -4,6 +4,13 @@ Device: Xiaomi Redmi Note 4/4x (mido)
 Device maintainer: Alone0316
 Android Version: 12
 
+==== 2022-07-20 ====
+- Update Display HAL from LA.UM.10.6.2.r1-01900-89xx.0
+- Update media hal from LA.UM.10.6.2.r1-02200-89xx.0
+- Enable Face unlock
+- Vanilla build
+- Upstream kernel from LA.UM.10.6.2.r1-02200-89xx.0
+
 ==== 2022-06-21 ====
 - All the device side changes made in PixelOS
 - Upstreamed kernel with latest clo and google tag

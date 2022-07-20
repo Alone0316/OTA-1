@@ -1,0 +1,13 @@
+{
+ "response" : [
+{
+ "datetime" : "1645078895",
+ "filename" : "CipherOS-3.8-NOVA-cipher_mido-20220719-1935-OFFICIAL-VANILLA.zip",
+ "id" : "2fc0dfada4cecfdcd8ecc023f92fcb30",
+ "romtype" : "STABLE",
+ "size" : 766120494,
+ "url" : "https://sourceforge.net/projects/cipheros/files/Cipher-3.x/NOVA/mido/CipherOS-3.8-NOVA-cipher_mido-20220719-1935-OFFICIAL-VANILLA.zip/download",
+ "version" : "3.7-NOVA"
+}
+]
+}
